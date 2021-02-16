@@ -1,1 +1,28 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+div {
+  margin-top: 10px;
+  background-color: white;
+}
+.divm {
+  width: 80px;
+  height: 130px;
+}
+.pt {
+  align-content: left;
+  justify-content: left;
+}
+.pc {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.pb {
+  padding-left: 50%;
+  justify-content: right;
+  text-align: right;
+}
