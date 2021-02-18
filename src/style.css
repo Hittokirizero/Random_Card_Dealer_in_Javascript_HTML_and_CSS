@@ -7,22 +7,25 @@ body {
 div {
   margin-top: 10px;
   background-color: white;
+  font-size: 40px;
 }
 .divm {
-  width: 80px;
-  height: 130px;
+  width: 140px;
+  height: 100%;
 }
 .pt {
+  width: 100%;
+  height: 25%;
   align-content: left;
   justify-content: left;
 }
 .pc {
-  display: flex;
   justify-content: center;
   text-align: center;
 }
 .pb {
-  padding-left: 50%;
+  width: 100%;
+  height: 25%;
+  align-content: right;
   justify-content: right;
-  text-align: right;
 }
